@@ -1,8 +1,8 @@
+Flask==1.1.2
 pylint
 click
 pytest
 pandas
 numpy
-google
-google.cloud
-google.cloud.bigquery
+sklearn
+scipy

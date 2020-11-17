@@ -1,11 +1,8 @@
 install:
-	pip install --upgrade pip &&\
-	pip install -r requirements.txt
-
-test:
-	python -m pytest -vv test_movie_rec.py
+	pip3 install --upgrade pip &&\
+	pip3 install -r requirements.txt
 
 lint:
-	python movie_rec.py --title "Jumanji"
+	pylint --disable=R,C,W app.py
 
-all: install lint test
+all: install lint
