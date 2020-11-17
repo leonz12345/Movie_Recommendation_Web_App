@@ -21,7 +21,7 @@ git clone https://github.com/leonz12345/Movie_Recommendation_Engine.git
 
 Step 2: 
 ```python
-cd Movie_Recommendation/
+cd Movie_Recommendation_Engine/
 ```
 
 Step 3: Install all package dependencies.
