@@ -16,7 +16,7 @@ Welcome to the movie recommendation system built by Ashish Vinodkumar and Leon Z
 ### Running the web application locally: 
 Step 1: Clone github repository:
 ```python
-git clone https://github.com/ashishvinodkumar/Movie_Recommendation.git 
+git clone https://github.com/leonz12345/Movie_Recommendation_Engine.git
 ```
 
 Step 2: 
