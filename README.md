@@ -4,14 +4,14 @@
 Welcome to the movie recommendation system built by Ashish Vinodkumar and Leon Zhang. We built a clean and user friendly web interface that provides users with movie suggestions based on movies that they pick. The website is built using Flask application with NLP algorithms supporting the backend computations. The application also utilizes cloud services and placed great emphasis on continuous integration and deployment (CI/CD) allowing us to update and make changes effectively. For instructions on running, using the website and setting up continuous deployment on GCP, please look at the instruction sections below. At last, feel free to visit our presentation and demo videos listed below.
 
 ##### Live Website link: https://app-4yyborwtmq-uc.a.run.app/home
-(Note that the website could be slow due to the low-end configurations we setup to save cost and also the large amount to backend computations our recommendation engine uses.)
+Note: The website could be slow due to the low-end configurations we setup to save cost and also the large amount to backend computations our recommendation engine uses
 
 ![Movie-Recommendation-Home-Screen](https://user-images.githubusercontent.com/26104722/99285690-e19c5a80-2805-11eb-94f9-f90487cc2bcc.png)
 
 
 ### Youtube Links:
-###### Project Overview and Cloud Architecture: https://youtu.be/TfDCWe--SGo
-###### Live Demo and code walkthrough: https://youtu.be/ko5kjdIpnro
+##### Project Overview and Cloud Architecture: https://youtu.be/TfDCWe--SGo
+##### Live Demo and code walkthrough: https://youtu.be/ko5kjdIpnro
 
 
 ### Running the web application locally: 
